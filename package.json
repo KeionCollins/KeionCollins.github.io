@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/KeionCollins/KeionCollins.github.io/issues"
   },
-  "homepage": "https://github.com/KeionCollins/KeionCollins.github.io#readme"
+  "homepage": "https://github.com/KeionCollins/KeionCollins.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
 }
